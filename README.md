@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aadishwar Ramesh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Deep Learning Entusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadish1206&label=Profile%20views&color=0e75b6&style=flat" alt="aadish1206" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadish1206" alt="aadish1206" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning And Full Stack Web Developement**
+- 🔭 I’m currently working on **Machine Learning And Deep Learning**
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
